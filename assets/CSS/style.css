@@ -635,7 +635,6 @@ input {
     grid-template-columns: repeat(3, 330px);
     gap: 1.8rem;
     justify-content: center;
-    padding-top: 1rem;
 }
 
 .work-filters {
