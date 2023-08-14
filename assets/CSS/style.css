@@ -483,7 +483,6 @@ input {
     grid-template-columns: repeat(2, 340px);
     column-gap: 3rem;
     justify-content: center;
-    margin-top: 5rem;
 }
 
 .qualification-title {
