@@ -4,7 +4,7 @@
     --hue-color:242;
 
     /* HSL Color Mode */
-    --skin-color: hsl(192, 100%, 50%);
+    --skin-color: hsl(0, 94%, 55%);
     --title-color:hsl(var(--hue-color), 8%, 95%);
     --text-color:hsl(var(--hue-color), 8%, 85%);
     --body-color:hsl(var(--hue-color), 19%, 5%);
@@ -71,7 +71,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: hsl(192, 45%, 24%) ;
+    background-color: hsl(0, 45%, 24%) ;
 }
 
 /* Base */
